@@ -98,13 +98,6 @@ This is the result of HOURS of surfing forums and search engines. I believe this
 82. [url]nzbcave.co.uk[/url] paid forum
 84. [url]http://www.asianusenet.com/[/url]
 
-
-
-
-BONUS: Ukrainian FTP search engine (indexing 383 Servers, 109.3 TB). Very slow for me, but does contain scene material: 
-http://ftpsearch.lostclus.kiev.ua/
-
-
 PLEASE submit a pull request if you want to add a site, do not pm me.
 
 IF YOU CAN'T GET IN, TRY ADDING STUFF to the url such as:
