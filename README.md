@@ -98,6 +98,7 @@ This is the result of HOURS of surfing forums and search engines. I believe this
 81. [url]abhdtv.net[/url] paid forum
 82. [url]nzbcave.co.uk[/url] paid forum
 84. [url]http://www.asianusenet.com/[/url]
+86. [url]http://www.elitenzb.info/[/url]
 
 PLEASE submit a pull request if you want to add a site, do not pm me.
 
@@ -111,7 +112,7 @@ IF YOU CAN'T GET IN, TRY ADDING STUFF to the url such as:
 /home
 /forum
 
-also try all of those with .php, .html, .js (etc) added to the url.
+also try all of those with .php, .html, .js (etc) added to the url. Then try slashes.
 Just experiment, who knows what you'll find!
 
 I HIGHLY recommend using lastpass to keep track of all your login creds. I honestly couldn't use a computer without it anymore.
