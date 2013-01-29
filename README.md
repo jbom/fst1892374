@@ -1,5 +1,8 @@
 For thread http://filesharingtalk.com/threads/454197-List-of-all-active-NZB-Indexing-sites-2013
 
+Click the "Raw" button for a nicer format.
+
+
 [SIZE=5][B]DO NOT POST ANYWHERE, THANKS[/B][/SIZE]
 Let's be courteous to the sites who wish to remain under the radar.
 
